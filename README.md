@@ -47,13 +47,13 @@ git init
 ```bash
 git add .
 
-
+```
 # Commit Files:
 
 ```bash
 git commit -m "Initial commit"
 
-
+```
 # Create Repository on GitHub:
 - Go to GitHub
 - Click on New Repository
@@ -64,13 +64,13 @@ git commit -m "Initial commit"
 ```bash
 git remote add origin <repository_url>
 
-
+```
 # Push Files to GitHub:
 
 ```bash
 git push -u origin master
 
-
+```
 # Result:
 Local repository successfully connected to GitHub and files pushed online.
 # Conclusion:
